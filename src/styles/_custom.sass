@@ -1,0 +1,55 @@
+$primario25: #6595BF40
+.text-right
+  text-align: right !important
+
+.cab
+  color: $color-acento-botones !important
+
+.cac
+  color: $color-acento-contenido !important
+
+.fac
+  background-color: $color-acento-contenido !important
+  color: $white !important
+
+.fg63
+  background-color: #636363 !important
+  color: $white !important
+
+.fblanco
+  background: $white !important
+
+.fcp
+  background-color: $primario25 !important
+
+.fondo-azul-clarito
+  background-color: #E8F0F8 !important
+
+.tabla-b table, .tabla-c table 
+  table-layout: auto
+  min-width: 430px
+
+._100pc
+  width: 100% !important
+
+._80px
+  max-width: 6rem
+
+.tablap  
+  .tabla-b td, .tabla-c td, .tabla-b th, .tabla-c th
+    padding: 20px !important
+
+@mixin gradient($direction, $list)
+  background: -webkit-linear-gradient($direction, $list)
+  background: -moz-linear-gradient($direction, $list)
+  background: -o-linear-gradient($direction, $list)
+  background: linear-gradient($direction, $list)
+
+$cafe1: #A66D58
+$cafe2: #D9A171
+
+$g1: $cafe1 0%,$cafe2 100%
+
+.g1
+  @include gradient(0deg, $g1)
+  
