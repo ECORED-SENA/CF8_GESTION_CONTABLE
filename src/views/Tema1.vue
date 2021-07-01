@@ -6,11 +6,11 @@
       .titulo-principal__numero
         span 1
       h1 Propiedad, planta y equipo
-    p La Propiedad, Planta Y Equipo son bienes que poseen las empresas para su uso diario y con las cuales cuentan para realizar las actividades correspondientes al objeto social. Por otro lado, es importante hacer referencia a las políticas contables de la empresa que son los procedimientos o reglas a tener en cuenta por cada criterio generado, en este caso el reconocimiento, medición, presentación y revelación de Propiedad, Planta y Equipo.
+    p La Propiedad, Planta Y Equipo son bienes que poseen las empresas para su uso diario y con las cuales cuentan para realizar las actividades correspondientes al objeto social. Por otro lado, es importante hacer referencia a las políticas contables de la empresa que son los procedimientos o reglas a tener en cuenta por cada criterio generado, en este caso el reconocimiento, medición, presentación y revelación de propiedad, planta y equipo.
     .col-lg-8.mx-auto.mb-5
       img(src="@/assets/curso/t1/f1.svg",alt="imagen de zona industrial")
     h3 Definición e importancia propiedad, planta y equipo
-    p La Propiedad, Planta y Equipo son activos que tienen apariencia física, los cuales se adquieren para el desarrollo del objeto social o actividad de esta. La Propiedad, Planta y Equipo posee las siguientes características:
+    p La propiedad, planta y equipo son activos que tienen apariencia física, los cuales se adquieren para el desarrollo del objeto social o actividad de esta. La propiedad, planta y equipo posee las siguientes características:
     .col-lg-11.mx-auto
       ul.lista-ul
           li 
@@ -27,8 +27,8 @@
             | Generan beneficios económicos a futuro para la empresa. 
           li 
             i.fas.fa-check.cab.me-4
-            | De acuerdo con la generación de flujos de caja se clasifica en: Propiedad, Planta y Equipo (NIC 16), propiedades de inversión (NIC 40) y Activos fijos para la venta (NIIF 5).
-    p La Propiedad, Planta y Equipo cumple una función muy importante dentro de las empresas, debido a que sin estos activos fijos no se puede ejecutar las funciones correspondientes de acuerdo con el objeto social, puesto que son activos tangibles que tiene una entidad para su uso en la producción o en la comercialización de bienes y prestación de servicios, para arrendarlos a terceros o para propósitos administrativos; y, por ende, se utiliza más de un periodo.
+            | De acuerdo con la generación de flujos de caja se clasifica en: propiedad, planta y equipo (NIC 16), propiedades de inversión (NIC 40) y Activos fijos para la venta (NIIF 5).
+    p La propiedad, planta y equipo cumple una función muy importante dentro de las empresas, debido a que sin estos activos fijos no se puede ejecutar las funciones correspondientes de acuerdo con el objeto social, puesto que son activos tangibles que tiene una entidad para su uso en la producción o en la comercialización de bienes y prestación de servicios, para arrendarlos a terceros o para propósitos administrativos; y, por ende, se utiliza más de un período.
     Separador
     #t_1_1.titulo-segundo
       h2 1.1 Política contable PPYE
@@ -39,7 +39,7 @@
     Separador
     #t_1_2.titulo-segundo
       h2 1.2 Compra de propiedad, planta y equipo en moneda local y moneda extranjera
-    p Al momento de adquirir un activo de Propiedad, Planta y Equipo se debe determinar el criterio de medición que se implementará de acuerdo con la política inicialmente planteada. Según la NIC 16, hace referencia al modelo del costo, lo que cuesta comprar el activo (máquina, equipo de oficina, computadores, bienes inmuebles, entre otros), más los costos asociados e impuestos no recuperables para poner en funcionamiento el activo. Igualmente, es importante revisar la clasificación de la propiedad planta y equipo según los años de vida útil establecidos en Colombia en la norma fiscal.
+    p Al momento de adquirir un activo de propiedad, planta y equipo se debe determinar el criterio de medición que se implementará de acuerdo con la política inicialmente planteada. Según la NIC 16, hace referencia al modelo del costo, lo que cuesta comprar el activo (máquina, equipo de oficina, computadores, bienes inmuebles, entre otros), más los costos asociados e impuestos no recuperables para poner en funcionamiento el activo. Igualmente, es importante revisar la clasificación de la propiedad planta y equipo según los años de vida útil establecidos en Colombia en la norma fiscal.
     p.mb-5 Por ende, es indispensable hacer referencia a la ley 1819 del 2016 en el cual se modifica el artículo 137 del Estatuto Tributario en el que se establece lo siguiente:
     .col-lg-6.mx-auto.mb-5
       .tabla-b.color-acento-botones.mb-5 
@@ -99,7 +99,7 @@
               td.text-center 20.00%
     h3 Tributario E. (2016) art. 137 Limitación a la deducción, Estatuto Tributario Nacional
     p Sin embargo, según la norma internacional y la política contable definida por cada entidad los años de vida útil la establece la empresa, así mismo, el valor residual que es el valor recuperable una vez se haya depreciado totalmente el activo.
-    p.mb-5 Por lo tanto, para ilustrar un poco la compra de Propiedad, Planta y Equipo se presenta el siguiente ejemplo:
+    p.mb-5 Por lo tanto, para ilustrar un poco la compra de propiedad, planta y equipo se presenta el siguiente ejemplo:
     .col-lg-11.mx-auto.mb-5
       .cajon.color-primario.fcp.p-4.mb-5
         p.mb-5 La empresa ABC Ltda. responsable de IVA Compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S Responsable de IVA gran contribuyente, adicionalmente, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9% E.A.
@@ -259,7 +259,7 @@
         table
           thead.text-center.fac
             tr
-              th.text-center PERIODO
+              th.text-center PERÍODO
               th.text-center DEPRECIACIÓN
               th.text-center DEPRECIACIÓN ACUMULADA
               th.text-center SALDO
@@ -581,6 +581,7 @@
         img(src='@/assets/curso/n2.svg',alt='2')
       .col-lg-11
         p.mb-5 <b>Modelo de revaluación:</b> cuando un activo es reconocido valor razonable y varía el precio de este, se revalúa tomando el valor razonable menos la depreciación y deterioros que se presentaron, este modelo se debe estar aplicando constantemente para que la información contable sea fiable y oportuna. 
+        h4 Ejemplo
         .row.align-items-center.mb-5
           .col-lg-6.mx-auto
             ul.lista-ul

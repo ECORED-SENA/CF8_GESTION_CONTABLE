@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Activos Mantenidos para la Venta
+      h1 Activos mantenidos para la venta
     p Los activos no corrientes mantenidos para la venta serán clasificados por la entidad, si su importe en libros se recuperará fundamentalmente a través de una transacción de venta a diferencia de activos que tienen uso continuado los cuales tienen otra finalidad. 
     p.mb-5 Para efectuar la clasificación anterior, el activo debe estar a disposición y en condiciones actuales para su venta inmediata sujeto a los términos usuales y habituales para la venta y negociado razonablemente; este debe ser vendido en menos de un año.
     .col-lg-9.mx-auto.mb-5
@@ -13,7 +13,7 @@
     Separador
     #t_3_1.titulo-segundo
       h2 3.1 Política contable
-    p.mb-5 La Política contable de cualquier activo establece las características de reconocimiento, medición inicial y posterior, presentación y revelación de la información contable y financiera de los activos que posee la entidad al cierre del periodo contable. Además, debe cumplir los requerimientos para ser clasificación, según la NIIF 5 “activos no corrientes mantenidos para la venta” se debe reconocer si el valor de esos activos se recupera por medio de ventas y no por uso de este. Igualmente, se debe determinar el criterio de medición establecido en la norma.
+    p.mb-5 La Política contable de cualquier activo establece las características de reconocimiento, medición inicial y posterior, presentación y revelación de la información contable y financiera de los activos que posee la entidad al cierre del período contable. Además, debe cumplir los requerimientos para ser clasificación, según la NIIF 5 “activos no corrientes mantenidos para la venta” se debe reconocer si el valor de esos activos se recupera por medio de ventas y no por uso de este. Igualmente, se debe determinar el criterio de medición establecido en la norma.
     .col-lg-5.mx-auto.mb-5
       img(src='@/assets/curso/t3/f2.svg',alt='Mujer con documentos')
     Separador
@@ -25,7 +25,7 @@
     h4 Medición
     p Una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor, además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que este tipo de activos el valor se recupera con la venta y no con su uso. 
     h4 Ejemplo:
-      p.mb-5 La empresa ABC Ltda. responsable de IVA Compra una máquina en el exterior para uso de la empresa por valor de USD 5.000, en la fecha de la compra la tasa de cambio es de $3.500, pero el pago de la máquina se hace cuando se reciba en Colombia y esté dispuesta para ser usada, en ese momento el valor del dólar es $3.750.
+      p.mb-5 Se compra una casa por valor de $100.000.000, para venderla posteriormente
       .row.align-items-center
         .col-lg-7.tablap
           .cajon.color-primario.fcp.p-5.mb-5

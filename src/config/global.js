@@ -37,7 +37,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.2',
             titulo:
-              'Compra de propiedad, planta y equipo en moneda local y moneda extran',
+              'Compra de propiedad, planta y equipo en moneda local y moneda extranjera',
             hash: 't_1_2',
           },
           {
@@ -196,13 +196,13 @@ export default {
     {
       texto:
         'Investigación e innovación financiera y organizacional	Servicio Nacional de Aprendizaje, SENA. (2018). Revista Finnova: Investigación e Innovación Financiera y Organizacional.	Capítulo 1',
-      tipo: 'Capítulo de libro',
+      tipo: 'Capítulo 1',
       link: 'http://revistas.sena.edu.co/index.php/finn',
     },
     {
       texto:
         'Contabilidad financiera	Calixto Mendoza Roca, 2016 Contabilidad financiera, Universidad del Norte.	Capítulo 3',
-      tipo: 'Capítulo de libro',
+      tipo: 'Capítulo 3',
       link:
         'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/reader.action?docID=4722180&query=activos+fijos',
     },
@@ -223,14 +223,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Claudia Brceida Coy Coy',
+        cargo: 'Instructora',
+        centro: 'Centros de Contabilidad',
       },
       {
-        nombre: '',
-        cargo: '',
-        centro: '',
+        nombre: 'Angie Fernanda Salazar',
+        cargo: 'Instructora',
+        centro: 'Centros de Contabilidad',
+      },
+      {
+        nombre: 'Maryuri Agudelo Franco',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología',
       },
     ],
     desarrolloProducto: [
@@ -258,13 +263,12 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy María Ruíz Torres',
         cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
