@@ -376,7 +376,7 @@
         .col-lg-6.mx-auto
           .titulo-segundo
             h2 Deterioro de propiedad, planta y equipo
-          p El deterioro del valor o las pérdidas de los elementos de propiedades, planta y equipo son hechos separables de las reclamaciones de pagos o compensaciones de terceros, así como, de cualquier compra posterior o construcción de activos que reemplacen a los citados elementos, y por ello se contabilizarán de forma separada, procediendo de la manera siguiente:
+          p El deterioro del valor o las pérdidas de los elementos de propiedades, planta y equipo son hechos separables de las reclamaciones de pagos o compensaciones de terceros, así como, de cualquier compra posterior o construcción de activos que reemplacen a los citados elementos, y por ello se contabilizarán de forma separada, por tal motivo lo invitamos a consultar el siguiente enlace.
           a.boton.me-3.indicador__container(
             :href="obtenerLink('/downloads/prueba.pdf')"
             target="_blank"
