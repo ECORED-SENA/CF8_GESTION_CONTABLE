@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Propiedad, planta y equipo
-    p La Propiedad, Planta Y Equipo son bienes que poseen las empresas para su uso diario y con las cuales cuentan para realizar las actividades correspondientes al objeto social. Por otro lado, es importante hacer referencia a las políticas contables de la empresa que son los procedimientos o reglas a tener en cuenta por cada criterio generado, en este caso el reconocimiento, medición, presentación y revelación de propiedad, planta y equipo.
+    p La propiedad, planta y equipo son bienes que poseen las empresas para su uso diario y con las cuales cuentan para realizar las actividades correspondientes al objeto social. Por otro lado, es importante hacer referencia a las políticas contables de la empresa que son los procedimientos o reglas a tener en cuenta por cada criterio generado, en este caso el reconocimiento, medición, presentación y revelación de propiedad, planta y equipo.
     .col-lg-8.mx-auto.mb-5
       img(src="@/assets/curso/t1/f1.svg",alt="imagen de zona industrial")
     h3 Definición e importancia propiedad, planta y equipo
@@ -378,7 +378,7 @@
             h2 Deterioro de propiedad, planta y equipo
           p El deterioro del valor o las pérdidas de los elementos de propiedades, planta y equipo son hechos separables de las reclamaciones de pagos o compensaciones de terceros, así como, de cualquier compra posterior o construcción de activos que reemplacen a los citados elementos, y por ello se contabilizarán de forma separada, por tal motivo lo invitamos a consultar el siguiente enlace.
           a.boton.me-3.indicador__container(
-            :href="obtenerLink('/downloads/prueba.pdf')"
+            :href="obtenerLink('/downloads/deterioroPPYE.pdf')"
             target="_blank"
             type="application/pdf"
             @mouseover="mostrarIndicador = false"
@@ -407,7 +407,7 @@
         table
           thead.text-center.fac
             tr
-              th.text-center PERIODO
+              th.text-center PERÍODO
               th.text-center DEPRECIACIÓN
               th.text-center DEPRECIACIÓN ACUMULADA
               th.text-center SALDO
@@ -460,7 +460,7 @@
         table
           thead.text-center.fac
             tr
-              th.text-center PERIODO
+              th.text-center PERÍODO
               th.text-center DEPRECIACIÓN
               th.text-center DEPRECIACIÓN ACUMULADA
               th.text-center SALDO

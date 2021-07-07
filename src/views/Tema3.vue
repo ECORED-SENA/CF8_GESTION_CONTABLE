@@ -24,26 +24,25 @@
     p Los activos que se encuentran mantenidos para la venta NO serán objeto de depreciación, mientras el mismo esté clasificado con esas características.
     h4 Medición
     p Una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor, además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que este tipo de activos el valor se recupera con la venta y no con su uso. 
-    h4 Ejemplo:
-      p.mb-5 Se compra una casa por valor de $100.000.000, para venderla posteriormente
-      .row.align-items-center
-        .col-lg-7.tablap
-          .cajon.color-primario.fcp.p-5.mb-5
-            p.mb-4 Se compra una casa por valor de $100.000.000, para venderla posteriormente
-            table.fblanco.mb-4
-              tbody
-                tr
-                  th 151601
-                  td casa para venta
-                  td.text-right $ 110.000.000
-                  td.text-right 
-                tr
-                  th 233205
-                  td 
-                  td.text-right 
-                  td.text-right $ 110.000.000
-        .col-lg-3.mx-auto
-          img(src="@/assets/curso/t3/f3.svg",alt="Imagen de agente de bienes raíces")
+    .row.align-items-center
+      .col-lg-8.tablap
+        .cajon.color-primario.fcp.p-5.mb-5
+          h4 Ejemplo:
+          p.mb-4 Se compra una casa por valor de $100.000.000, para venderla posteriormente
+          table.fblanco.mb-4
+            tbody
+              tr
+                th 151601
+                td casa para venta
+                td.text-right $ 100.000.000
+                td.text-right 
+              tr
+                th 233205
+                td 
+                td.text-right 
+                td.text-right $ 100.000.000
+      .col-lg-3.mx-auto
+        img(src="@/assets/curso/t3/f3.svg",alt="Imagen de agente de bienes raíces")
     h4 Operaciones Discontinuadas
     p Son flujos u operaciones que se pueden distinguir claramente de otros flujos u operaciones, si estos se clasifican como mantenidos para la venta y se manejan como operaciones discontinuadas, es decir, aquellos activos de la entidad que han sido clasificados como mantenidos para la venta.
     h4 Ejemplo:
