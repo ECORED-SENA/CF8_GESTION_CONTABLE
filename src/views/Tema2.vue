@@ -20,17 +20,21 @@
       .col-lg-3.mx-auto
         img(src="@/assets/curso/t2/f2.svg",alt="Persona al lado de documento de política contable")
     h3 Deterioro de propiedad de inversión
-    .tarjeta.color-acento-contenido.p-4.p-md-5.mb-5
-      .row.justify-content-around.align-items-center
-        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          img(src="@/assets/curso/infografia.svg")
-
-        .col-md.col-lg-6
-          p.mb-4 El deterioro de valor de una propiedad de inversión hace referencia a la pérdida de dinero que puede presentar el bien por eventos imprevistos, disminuyendo el valor de este en la contabilidad. 
-          
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/deterioroPPYE.pdf')" target="_blank" type="application/pdf")
+    .container.fondo-azul-clarito.p-md-5.mb-5
+      .row.align-items-center
+        .col-lg-3.mx-auto
+          img(src="@/assets/curso/t1/f3.svg",alt="Persona viendo documentos")      
+        .col-lg-6.mx-auto
+          p.mb-4 El deterioro de valor de una propiedad de inversión hace referencia a la pérdida de dinero que puede presentar el bien por eventos imprevistos, disminuyendo el valor de este en la contabilidad.
+          a.boton.me-3.indicador__container(
+            :href="obtenerLink('/downloads/deterioroPPYE2.pdf')"
+            target="_blank"
+            type="application/pdf"
+            @mouseover="mostrarIndicador = false"
+          )
             span Descargar
             i.fas.fa-file-download
+            .indicador--click(v-if="mostrarIndicador")
     //figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -175,7 +179,7 @@
 export default {
   name: 'Tema2',
   data: () => ({
-    // variables de vue
+    mostrarIndicador: true,
   }),
 }
 </script>
