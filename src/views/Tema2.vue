@@ -23,7 +23,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video    
+      //figcaption Video: Leyenda del video    
     h4 Ejemplo:
     .cajon.color-primario.fcp.p-4.mb-5
       p.mb-5 La empresa X adquiere un local para inversión por valor de $50.000.000, el 10% corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $5.000.000 a una tasa del 6% E.A. al finalizar su vida útil de 20 años.
