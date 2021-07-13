@@ -20,10 +20,21 @@
       .col-lg-3.mx-auto
         img(src="@/assets/curso/t2/f2.svg",alt="Persona al lado de documento de política contable")
     h3 Deterioro de propiedad de inversión
-    figure.mb-5
+    .tarjeta.color-acento-contenido.p-4.p-md-5.mb-5
+      .row.justify-content-around.align-items-center
+        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
+          img(src="@/assets/curso/infografia.svg")
+
+        .col-md.col-lg-6
+          p.mb-4 El deterioro de valor de una propiedad de inversión hace referencia a la pérdida de dinero que puede presentar el bien por eventos imprevistos, disminuyendo el valor de este en la contabilidad. 
+          
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/deterioroPPYE.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
+    //figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      //figcaption Video: Leyenda del video    
+      figcaption Video: Leyenda del video    
     h4 Ejemplo:
     .cajon.color-primario.fcp.p-4.mb-5
       p.mb-5 La empresa X adquiere un local para inversión por valor de $50.000.000, el 10% corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $5.000.000 a una tasa del 6% E.A. al finalizar su vida útil de 20 años.
