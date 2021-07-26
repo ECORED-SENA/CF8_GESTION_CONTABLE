@@ -41,7 +41,7 @@
       figcaption Video: Leyenda del video    
     h4 Ejemplo:
     .cajon.color-primario.fcp.p-4.mb-5
-      p.mb-5 La empresa X adquiere un local para inversión por valor de $50.000.000, el 10% corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $5.000.000 a una tasa del 6% E.A. al finalizar su vida útil de 20 años.
+      p.mb-5 La empresa X adquiere un local para inversión por valor de $ 50.000.000, el 10 % corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $ 5.000.000 a una tasa del 6 % E.A. al finalizar su vida útil de 20 años.
       .row.align-items-start
           .col-lg-5
             .tabla-b.color-acento-botones.mb-5 
@@ -92,7 +92,7 @@
                     td Costos y gastos por pagar
                     td 
                     td.text-right $ 50.000.000
-    p Pasado un año la bodega sufre un deterioro por inseguridad en el sector y pierde valor por $5.000.000. Se solicita realizar la medición posterior del activo.
+    p Pasado un año la bodega sufre un deterioro por inseguridad en el sector y pierde valor por $ 5.000.000. Se solicita realizar la medición posterior del activo.
     .row.align-items-center.mb-5
       .col-lg-4.mx-auto
         .cajon.color-primario.fondo-azul-clarito.p-4
@@ -111,7 +111,7 @@
     p <b>Medición inicial:</b> las propiedades de inversión se miden al costo, teniendo en cuenta los valores adicionales como mayor valor del bien, entre los que se pueden encontrar: comisiones, impuestos y demás costos en los que se incurra para poder adquirir el activo.
     h4 Ejemplo:
     .cajon.color-primario.fcp.p-4.mb-5
-      p.mb-5 La empresa X adquiere un local para inversión por valor de $50.000.000, el 10% corresponde a terrenos, y el resto es construcción, tener en cuenta los criterios de medición.
+      p.mb-5 La empresa X adquiere un local para inversión por valor de $ 50.000.000, el 10 % corresponde a terrenos, y el resto es construcción, tener en cuenta los criterios de medición.
       .row.align-items-start
         .col-lg-5
           .tabla-b.color-acento-botones.mb-5 

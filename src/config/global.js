@@ -126,11 +126,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
+      /*{
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
-      },
+      },*/
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -141,7 +141,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Flórez, E., Rincón, C., Zamorano, R. (2014). Manual contable en la implementación de las NIIF.Bogotá: Ecoe Ediciones.',
+        'Flórez, E., Rincón, C., Zamorano, R. (2014). Manual contable en la implementación de las NIIF. Bogotá: Ecoe Ediciones.',
     },
     {
       referencia: 'CTCP, (2016a), NIC 16 propiedad planta y equipo.',
@@ -159,7 +159,7 @@ export default {
     {
       termino: 'Activos mantenidos para la venta',
       significado:
-        'Son aquellos bienes que adquiere la empresa con la finalidad de desprenderse de los mismo, a través de la venta.',
+        'Son aquellos bienes que adquiere la empresa con la finalidad de desprenderse de los mismos, a través de la venta.',
     },
     {
       termino: 'Activos de uso',

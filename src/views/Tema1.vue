@@ -51,58 +51,58 @@
           tbody
             tr
               td Construcciones y edificaciones
-              td.text-center 2.22%
+              td.text-center 2.22 %
             tr
               td Acueducto, planta y redes
-              td.text-center 2.50%
+              td.text-center 2.50 %
             tr
               td Vías de comunicación
-              td.text-center 2.50%
+              td.text-center 2.50 %
             tr
               td Flota y equipo aéreo
-              td.text-center 3.33%
+              td.text-center 3.33 %
             tr
               td Flota y equipo férreo
-              td.text-center 5.00%
+              td.text-center 5.00 %
             tr
               td Flota y equipo fluvial
-              td.text-center 6.67%
+              td.text-center 6.67 %
             tr  
               td Armamento y equipo de vigilancia
-              td.text-center 10.00%
+              td.text-center 10.00 %
             tr  
               td Equipo eléctrico
-              td.text-center 10.00%
+              td.text-center 10.00 %
             tr
               td Flota y equipo de transporte terrestre
-              td.text-center 10.00%
+              td.text-center 10.00 %
             tr
               td Maquinaria, equipos
-              td.text-center 10.00%
+              td.text-center 10.00 %
             tr 
               td Muebles y Enseres
-              td.text-center 10.00%
+              td.text-center 10.00 %
             tr 
               td Equipo Médico Científico
-              td.text-center 12.50%
+              td.text-center 12.50 %
             tr 
               td Envases, empaques y herramientas
-              td.text-center 20.00%
+              td.text-center 20.00 %
             tr
               td Equipo de computación
-              td.text-center 20.00%
+              td.text-center 20.00 %
             tr 
               td Redes de procesamiento de datos
-              td.text-center 20.00%
+              td.text-center 20.00 %
             tr
               td Equipo de Comunicación
-              td.text-center 20.00%
+              td.text-center 20.00 %
     h3 Tributario E. (2016) art. 137 Limitación a la deducción, Estatuto Tributario Nacional
     p Sin embargo, según la norma internacional y la política contable definida por cada entidad los años de vida útil la establece la empresa, así mismo, el valor residual que es el valor recuperable una vez se haya depreciado totalmente el activo.
     p.mb-5 Por lo tanto, para ilustrar un poco la compra de propiedad, planta y equipo se presenta el siguiente ejemplo:
     .col-lg-11.mx-auto.mb-5
       .cajon.color-primario.fcp.p-4.mb-5
-        p.mb-5 La empresa ABC Ltda. responsable de IVA Compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S Responsable de IVA gran contribuyente, adicionalmente, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9% E.A.
+        p.mb-5 La empresa ABC Ltda. responsable de IVA Compra una máquina para uso de la empresa por valor de $ 3.000.000 a la empresa Eléctricos S.A.S Responsable de IVA gran contribuyente, adicionalmente, se pagan fletes por $ 150.000 y servicio de instalación por valor de $ 350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $ 1.000.000 a una tasa de descuento de 9 % E.A.
         .row.align-items-start
           .col-lg-5
             .tabla-b.color-acento-botones.mb-5 
@@ -116,10 +116,10 @@
                     td.text-center Fletes
                     td.text-right $  150.000
                   tr
-                    td.text-center IVA 19%
+                    td.text-center IVA 19 %
                     td.text-right $  598.500
                   tr
-                    td.text-center RETEFUENTE 2,5%
+                    td.text-center RETEFUENTE 2,5 %
                     td.text-right $  78.750
               h6.p-3._100pc.text-center.fac.mb-0 Desmantelamiento
               table.fblanco
@@ -167,10 +167,10 @@
     h4.mb-5 Ejemplo:
     .col-lg-11.mx-auto.mb-5
       .cajon.color-primario.fcp.p-4.mb-5
-        p.mb-5 La empresa ABC Ltda. responsable de IVA Compra una máquina en el exterior para uso de la empresa por valor de USD 5.000, en la fecha de la compra la tasa de cambio es de $3.500, pero el pago de la máquina se hace cuando se reciba en Colombia y esté dispuesta para ser usada, en ese momento el valor del dólar es $3.750.
+        p.mb-5 La empresa ABC Ltda. responsable de IVA Compra una máquina en el exterior para uso de la empresa por valor de USD 5.000, en la fecha de la compra la tasa de cambio es de $ 3.500, pero el pago de la máquina se hace cuando se reciba en Colombia y esté dispuesta para ser usada, en ese momento el valor del dólar es $ 3.750.
         .row.align-items-start
           .col-lg-7.tablap
-            h4 Meidión inicial
+            h4 Medición inicial
             table.fblanco.mb-4
               tbody
                 tr
@@ -181,7 +181,7 @@
                   th Acreedores del exterior
                   td
                   td.text-right $ 17.500.000
-            p.mb-4 El valor posterior de la máquina es de $18.750.000, se reconoce la diferencia en comparación con el costo inicial
+            p.mb-4 El valor posterior de la máquina es de $ 18.750.000, se reconoce la diferencia en comparación con el costo inicial
             table.fblanco
               tbody
                 tr
@@ -201,7 +201,7 @@
     h4.mb-5 Ejemplo:
     .col-lg-11.mx-auto.mb-5
       .cajon.color-primario.fcp.p-4.mb-5
-        p.mb-5 La empresa ABC SAS adquiere una oficina por valor de $50.000.000, el 10% corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $5.000.000 a una tasa del 6% E.A. al finalizar su vida útil de 20 años.
+        p.mb-5 La empresa ABC SAS adquiere una oficina por valor de $ 50.000.000, el 10 % corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $ 5.000.000 a una tasa del 6 % E.A. al finalizar su vida útil de 20 años.
         .row.align-items-start
           .col-lg-5
             .tabla-b.color-acento-botones.mb-5 
@@ -250,7 +250,7 @@
                     td 233505
                     td Costos y gastos por pagar
                     td 
-                    td.text-right $50.000.000
+                    td.text-right $ 50.000.000
     p La Depreciación es un concepto muy importante a tener en cuenta dentro del reconocimiento y medición de la propiedad, planta y equipo, que es la pérdida de valor que sufre un bien por su uso. Por ende, cada activo debe tener estipulado sus años de vida útil. Sin embargo, puede ocurrir también el deterioro (pérdida) por un factor externo, por ejemplo: un accidente de un vehículo, daños de vías donde esté ubicado el bien inmueble.
     p A continuación, se desarrolla la depreciación anual del ejemplo anterior:
     h4.mb-5 Años de vida útil 20
@@ -389,7 +389,7 @@
     h4.mb-5 Ejemplo:
     .col-lg-11.mx-auto
       .cajon.color-primario.fcp.p-4.mb-5
-        p.mb-0 Se compra un computador por valor de $3.000.000 IVA incluido, para uso de la empresa, con 5 años de vida útil, transcurrido dos años el equipo se dejó caer del mueble y sufrió daños, el deterioro se estima en $500.000, reconozca el deterioro presentado.
+        p.mb-0 Se compra un computador por valor de $ 3.000.000 IVA incluido, para uso de la empresa, con 5 años de vida útil, transcurrido dos años el equipo se dejó caer del mueble y sufrió daños, el deterioro se estima en $ 500.000, reconozca el deterioro presentado.
     .col-lg-6.tablap.mb-5.mx-auto
       table.fblanco.mb-4
         tbody
@@ -445,13 +445,13 @@
     .row.align-items-center.mb-5
       .col-lg-5.mx-auto
         .container.fondo-azul-clarito.p-4
-          p En el año dos sufre el deterioro por $500.000 
-          p Computador: $3.000.000
-          p Depreciación: $1.200.000
-          p Deterioro: $500.000
-          p Valor residual: $1.300.000
-          p 159902 Deterioro computador $500.000
-          p 519801 Deterioro $500.000 
+          p En el año dos sufre el deterioro por $ 500.000 
+          p Computador: $ 3.000.000
+          p Depreciación: $ 1.200.000
+          p Deterioro: $ 500.000
+          p Valor residual: $ 1.300.000
+          p 159902 Deterioro computador $ 500.000
+          p 519801 Deterioro $ 500.000 
       .col-lg-7.mx-auto
         img(src="@/assets/curso/t1/f4.svg",alt="Persona viendo documentos") 
     p.mb-5 Se hace ajuste en la depreciación por los periodos que faltan para terminar su vida útil.
@@ -496,20 +496,20 @@
         img(src='@/assets/curso/n1.svg',alt='1')
       .col-lg-11
         p <b>Modelo del costo:</b> este modelo consiste en disminuir del costo inicial el valor de la depreciación acumula, así como, el valor por deterioro si lo hay, en el monumento de cierre del periodo.
-        p.mb-5 <b>Ejemplo:</b> La empresa TRAPITOS S.A., el día primero de marzo compra una máquina de coser por valor de $ 6.500.000, adicionalmente se canceló servicio de transporte por $250.000, se estima un desmantelamiento en 10 años por valor de $2.000.000 a una tasa de 6% EA.
+        p.mb-5 <b>Ejemplo:</b> La empresa TRAPITOS S.A., el día primero de marzo compra una máquina de coser por valor de $ 6.500.000, adicionalmente se canceló servicio de transporte por $ 250.000, se estima un desmantelamiento en 10 años por valor de $ 2.000.000 a una tasa de 6 % EA.
         .row.align-items-start
           .col-lg-4
             .cajon.color-primario.fcp.p-4
               p <b>VP= VF/ (1+i)^n</b>
-              p <b>VP= $2000000/(1+0.06)^10</b>
-              p.mb-5 <b>VP= $1.116.790</b>
-              p Maquinaria $6.500.000
-              p IVA $1.235.000
-              p.mb-5 Fletes $250.000
-              p Desmantelamiento $1.116.790 
-              p Valor a depreciar $9.101.790
-              p Depreciación anual: $910.179
-              p.mb-0 Depreciación mensual: $75.848
+              p <b>VP= $ 2000000/(1+0.06)^10</b>
+              p.mb-5 <b>VP= $ 1.116.790</b>
+              p Maquinaria $ 6.500.000
+              p IVA $ 1.235.000
+              p.mb-5 Fletes $ 250.000
+              p Desmantelamiento $ 1.116.790 
+              p Valor a depreciar $ 9.101.790
+              p Depreciación anual: $ 910.179
+              p.mb-0 Depreciación mensual: $ 75.848
           .col-lg-7.mx-auto.tablap.mb-5.mx-auto
             table.fblanco.mb-4
               tbody
@@ -547,13 +547,13 @@
                 tbody
                   tr
                     th Tasa EA
-                    td.text-right 6,00%
+                    td.text-right 6,00 %
                   tr
                     td Tasa Nominal
-                    td.text-right 5,84%
+                    td.text-right 5,84 %
                   tr
                     td Tasa Mensual
-                    td.text-right 0,487%
+                    td.text-right 0,487 %
         .row.align-items-start
           .col-lg-4
             .cajon.color-primario.fcp.p-4
@@ -593,13 +593,13 @@
                 p Valorización con respecto al costo histórico<br>8.000.000 – 5.741.520 = 2.258.480
               li 
                 i.fas.fa-check.cac.me-4
-                p Valoración / costo histórico<br>2.258.480 / 5.741.520 = 39,34%
+                p Valoración / costo histórico<br>2.258.480 / 5.741.520 = 39,34 %
               li 
                 i.fas.fa-check.cac.me-4
-                p Depreciación * 39,34% = valor ajustado de depreciación<br>758.480*39,34%= 298.386
+                p Depreciación * 39,34 % = valor ajustado de depreciación<br>758.480*39,34 % = 298.386
               li 
                 i.fas.fa-check.cac.me-4
-                p Costo histórico*39.34%= valor ajuste costo histórico<br>6.500.000*39.34%= 2.535.000
+                p Costo histórico*39.34 % = valor ajuste costo histórico<br>6.500.000*39.34 % = 2.535.000
           .col-lg-5.mx-auto
             img(src="@/assets/curso/t1/f6.svg",alt="Persona cosiendo tapabocas")
       .col-lg-6.mx-auto.tablap.mb-5.mx-auto

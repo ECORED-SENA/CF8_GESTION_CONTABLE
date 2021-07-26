@@ -28,7 +28,7 @@
       .col-lg-8.tablap
         .cajon.color-primario.fcp.p-5.mb-5
           h4 Ejemplo:
-          p.mb-4 Se compra una casa por valor de $100.000.000, para venderla posteriormente
+          p.mb-4 Se compra una casa por valor de $ 100.000.000, para venderla posteriormente
           table.fblanco.mb-4
             tbody
               tr
