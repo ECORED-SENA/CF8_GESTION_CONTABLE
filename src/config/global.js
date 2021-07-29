@@ -126,11 +126,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      /*{
+      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
-      },*/
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -198,13 +198,6 @@ export default {
         'Investigación e innovación financiera y organizacional	Servicio Nacional de Aprendizaje, SENA. (2018). Revista Finnova: Investigación e Innovación Financiera y Organizacional.	Capítulo 1',
       tipo: 'Capítulo 1',
       link: 'http://revistas.sena.edu.co/index.php/finn',
-    },
-    {
-      texto:
-        'Contabilidad financiera	Calixto Mendoza Roca, 2016 Contabilidad financiera, Universidad del Norte.	Capítulo 3',
-      tipo: 'Capítulo 3',
-      link:
-        'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/reader.action?docID=4722180&query=activos+fijos',
     },
   ],
   creditos: {
